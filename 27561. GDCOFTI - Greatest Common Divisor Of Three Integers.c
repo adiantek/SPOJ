@@ -1,3 +1,5 @@
+// -- https://www.spoj.com/problems/GDCOFTI/
+
 #include <stdio.h>
 
 typedef unsigned long long int ULLI;

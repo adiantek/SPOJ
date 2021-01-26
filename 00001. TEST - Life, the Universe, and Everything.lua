@@ -1,3 +1,5 @@
+-- https://www.spoj.com/problems/TEST/
+
 while true do
     N = tonumber(io.read("*n"))
     if N == 42 then

@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/PALIN/
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,3 +1,5 @@
+-- https://www.spoj.com/problems/LASTDIG/
+
 T = tonumber(io.read("*n"))
 for i=1,T do
     A = tonumber(io.read("*n"))

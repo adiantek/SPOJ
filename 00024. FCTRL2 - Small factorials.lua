@@ -1,3 +1,5 @@
+-- https://www.spoj.com/problems/FCTRL2/
+
 T = tonumber(io.read("*n"))
 for i=1,T do
     N = tonumber(io.read("*n"))
