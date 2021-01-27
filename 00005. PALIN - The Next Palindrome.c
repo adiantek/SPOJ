@@ -78,5 +78,6 @@ int main() {
         free(n2);
     }
   }
+  free(n);
   return 0;
 }
