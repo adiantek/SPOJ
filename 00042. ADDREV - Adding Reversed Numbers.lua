@@ -1,3 +1,5 @@
+-- https://www.spoj.com/problems/ADDREV/
+
 local n = io.read("*n")
 for i=1,n do
     local a = tonumber(string.reverse(tostring(io.read("*n"))))

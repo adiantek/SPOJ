@@ -1,3 +1,5 @@
+-- https://www.spoj.com/problems/BITMAP/
+
 local one = ("1"):byte(1)
 for c=1,tonumber(io.read("*n")) do
     local n = tonumber(io.read("*n"))

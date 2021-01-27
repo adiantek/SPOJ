@@ -1,3 +1,5 @@
+-- https://www.spoj.com/problems/PT07Z/
+
 local n = tonumber(io.read("*n"))
 local nodes = {}
 local firstNode = nil
